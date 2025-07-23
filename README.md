@@ -5,4 +5,4 @@ It uses a trained XGBoost regression model deployed using **Streamlit** for an i
 
 ## Screenshot - Streamlit UI
 
-![Streamlit UI](images/streamlit_ui.png)
+![Streamlit UI](images/streamlit_ui.jpg)
